@@ -1,0 +1,13 @@
+<config>
+    <iso_country></iso_country>
+    <!--<default_hierarchy>/home/romek/Projects/S7/deploy/OJDP/xDistributor/config/openjaw/Supplier/XLS/</default_hierarchy>-->
+    <data_dir>/home/romek/git/GlobalServices_S7/com.openjaw.locs.updater/src/main/resources/</data_dir>
+    <uts_endpoint>http://test1.hotelbook.pro/xml/</uts_endpoint>
+    <uts_user>xmls7</uts_user>
+    <uts_password>password</uts_password>
+    <!--<xdist_endpoint>http://localhost:9081/services/spm/spm</xdist_endpoint>-->
+    <xdist_endpoint>http://dev-gap-xdist-1.s7.ru:9081/services/spm/spm</xdist_endpoint>
+    <xdist_timeout>90000</xdist_timeout>
+    <xdist_request_limit>3</xdist_request_limit>
+    <number_of_workers>10</number_of_workers>
+</config>

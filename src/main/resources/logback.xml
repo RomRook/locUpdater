@@ -1,0 +1,86 @@
+<configuration>
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+
+    <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <!-- path to your log file, where you want to store logs -->
+        <!-- <file>/home/romek/temp/test.log</file>-->
+        <file>location-updater.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <!-- daily rollover -->
+            <fileNamePattern>location-updater-%d{yyyy-MM-dd}.log</fileNamePattern>
+            <!-- keep 30 days' worth of history capped at 3GB total size -->
+            <maxHistory>30</maxHistory>
+            <totalSizeCap>3GB</totalSizeCap>
+        </rollingPolicy>
+        <append>true</append>
+        <encoder>
+            <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <appender name="CityCoordinates" class="ch.qos.logback.core.FileAppender">
+        <!-- path to your log file, where you want to store logs -->
+        <file>csv/CityCoordinates.csv</file>
+        <append>true</append>
+        <encoder>
+            <pattern>%msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <appender name="CityCoordinatesZeroResult" class="ch.qos.logback.core.FileAppender">
+        <!-- path to your log file, where you want to store logs -->
+        <file>csv/CityCoordinatesZeroResult.csv</file>
+        <append>true</append>
+        <encoder>
+            <pattern>%msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <appender name="CityCoordinatesQueryLimit" class="ch.qos.logback.core.FileAppender">
+        <!-- path to your log file, where you want to store logs -->
+        <file>csv/CityCoordinatesQueryLimit.csv</file>
+        <append>true</append>
+        <encoder>
+            <pattern>%msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <appender name="CityCoordinatesErrors" class="ch.qos.logback.core.FileAppender">
+        <!-- path to your log file, where you want to store logs -->
+        <file>csv/CityCoordinatesErrors.csv</file>
+        <append>true</append>
+        <encoder>
+            <pattern>%msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <logger name="CityCoordinates" additivity="true">
+        <level value="INFO" />
+        <appender-ref ref="CityCoordinates" />
+    </logger>
+
+    <logger name="CityCoordinatesQueryLimit" additivity="true">
+        <level value="INFO" />
+        <appender-ref ref="CityCoordinatesQueryLimit" />
+    </logger>
+
+    <logger name="CityCoordinatesZeroResult" additivity="true">
+        <level value="INFO" />
+        <appender-ref ref="CityCoordinatesZeroResult" />
+    </logger>
+
+    <logger name="CityCoordinatesErrors" additivity="true">
+        <level value="INFO" />
+        <appender-ref ref="CityCoordinatesErrors" />
+    </logger>
+
+    <root level="debug">
+        <appender-ref ref="STDOUT" />
+        <appender-ref ref="FILE" />
+    </root>
+</configuration>

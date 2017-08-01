@@ -1,0 +1,240 @@
+<Countries>
+  <Country UtsCode="243" CityMergeType="city" StateCode="" ISOCountryCode="AX" CurrentName="ALAND ISLANDS" LocationType="country" LocationId="COUNTRY_AX">ALAND ISLANDS</Country>
+  <Country UtsCode="229" CityMergeType="city" StateCode="" ISOCountryCode="AS" CurrentName="AMERICAN SAMOA" LocationType="country" LocationId="COUNTRY_AS">AMERICAN SAMOA</Country>
+  <Country UtsCode="179" CityMergeType="city" StateCode="" ISOCountryCode="AF" CurrentName="Afghanistan" LocationType="country" LocationId="COUNTRY_AF">Afghanistan</Country>
+  <Country UtsCode="4" CityMergeType="city" StateCode="" ISOCountryCode="AL" CurrentName="Albania" LocationType="country" LocationId="COUNTRY_AL">Albania</Country>
+  <Country UtsCode="194" CityMergeType="city" StateCode="" ISOCountryCode="DZ" CurrentName="Algeria" LocationType="country" LocationId="COUNTRY_DZ">Algeria</Country>
+  <Country UtsCode="172" CityMergeType="city" StateCode="" ISOCountryCode="AD" CurrentName="Andorra" LocationType="country" LocationId="COUNTRY_AD">Andorra</Country>
+  <Country UtsCode="191" CityMergeType="city" StateCode="" ISOCountryCode="AO" CurrentName="Angola" LocationType="country" LocationId="COUNTRY_AO">Angola</Country>
+  <Country UtsCode="185" CityMergeType="city" StateCode="" ISOCountryCode="AI" CurrentName="Anguilla" LocationType="country" LocationId="COUNTRY_AI">Anguilla</Country>
+  <Country UtsCode="5" CityMergeType="city" StateCode="" ISOCountryCode="AG" CurrentName="Antigua" LocationType="country" LocationId="COUNTRY_AG">Antigua</Country>
+  <Country UtsCode="6" CityMergeType="city" StateCode="" ISOCountryCode="AR" CurrentName="Argentina" LocationType="country" LocationId="COUNTRY_AR">Argentina</Country>
+  <Country UtsCode="7" CityMergeType="city" StateCode="" ISOCountryCode="AM" CurrentName="Armenia" LocationType="country" LocationId="COUNTRY_AM">Armenia</Country>
+  <Country UtsCode="8" CityMergeType="city" StateCode="" ISOCountryCode="AW" CurrentName="Aruba" LocationType="country" LocationId="COUNTRY_AW">Aruba</Country>
+  <Country UtsCode="1" CityMergeType="city" StateCode="" ISOCountryCode="AU" CurrentName="Australia" LocationType="country" LocationId="COUNTRY_AU">Australia</Country>
+  <Country UtsCode="2" CityMergeType="city" StateCode="" ISOCountryCode="AT" CurrentName="Austria" LocationType="country" LocationId="COUNTRY_AT">Austria</Country>
+  <Country UtsCode="3" CityMergeType="city" StateCode="" ISOCountryCode="AZ" CurrentName="Azerbaijan" LocationType="country" LocationId="CouAzAzerbai593">Azerbaijan</Country>
+  <Country UtsCode="230" CityMergeType="city" StateCode="" ISOCountryCode="BT" CurrentName="BHUTAN" LocationType="country" LocationId="COUNTRY_BT">BHUTAN</Country>
+  <Country UtsCode="244" CityMergeType="city" StateCode="" ISOCountryCode="BQ" CurrentName="BONAIRE, SINT EUSTATIUS AND SABA" LocationType="country" LocationId="COUNTRY_BQ">BONAIRE, SINT EUSTATIUS AND SABA</Country>
+  <Country UtsCode="231" CityMergeType="city" StateCode="" ISOCountryCode="IO" CurrentName="BRITISH INDIAN OCEAN TERRITORY" LocationType="country" LocationId="COUNTRY_IO">BRITISH INDIAN OCEAN TERRITORY</Country>
+  <Country UtsCode="9" CityMergeType="city" StateCode="" ISOCountryCode="BS" CurrentName="Bahamas" LocationType="country" LocationId="COUNTRY_BS">Bahamas</Country>
+  <Country UtsCode="12" CityMergeType="city" StateCode="" ISOCountryCode="BH" CurrentName="Bahrain" LocationType="country" LocationId="COUNTRY_BH">Bahrain</Country>
+  <Country UtsCode="10" CityMergeType="city" StateCode="" ISOCountryCode="BD" CurrentName="Bangladesh" LocationType="country" LocationId="COUNTRY_BD">Bangladesh</Country>
+  <Country UtsCode="11" CityMergeType="city" StateCode="" ISOCountryCode="BB" CurrentName="Barbados" LocationType="country" LocationId="COUNTRY_BB">Barbados</Country>
+  <Country UtsCode="13" CityMergeType="city" StateCode="" ISOCountryCode="BY" CurrentName="Belarus" LocationType="country" LocationId="CouByBelarus296">Belarus</Country>
+  <Country UtsCode="14" CityMergeType="city" StateCode="" ISOCountryCode="BE" CurrentName="Belgium" LocationType="country" LocationId="COUNTRY_BE">Belgium</Country>
+  <Country UtsCode="182" CityMergeType="city" StateCode="" ISOCountryCode="BZ" CurrentName="Belize" LocationType="country" LocationId="COUNTRY_BZ">Belize</Country>
+  <Country UtsCode="201" CityMergeType="city" StateCode="" ISOCountryCode="BJ" CurrentName="Benin" LocationType="country" LocationId="COUNTRY_BJ">Benin</Country>
+  <Country UtsCode="15" CityMergeType="city" StateCode="" ISOCountryCode="BM" CurrentName="Bermuda" LocationType="country" LocationId="COUNTRY_BM">Bermuda</Country>
+  <Country UtsCode="17" CityMergeType="city" StateCode="" ISOCountryCode="BO" CurrentName="Bolivia" LocationType="country" LocationId="COUNTRY_BO">Bolivia</Country>
+  <Country UtsCode="19" CityMergeType="city" StateCode="" ISOCountryCode="BW" CurrentName="Botswana" LocationType="country" LocationId="COUNTRY_BW">Botswana</Country>
+  <Country UtsCode="20" CityMergeType="city" StateCode="" ISOCountryCode="BR" CurrentName="Brazil" LocationType="country" LocationId="COUNTRY_BR">Brazil</Country>
+  <Country UtsCode="21" CityMergeType="city" StateCode="" ISOCountryCode="VG" CurrentName="British Virgin Islands" LocationType="country" LocationId="COUNTRY_VG">British Virgin Islands</Country>
+  <Country UtsCode="22" CityMergeType="city" StateCode="" ISOCountryCode="BN" CurrentName="Brunei Darussalam" LocationType="country" LocationId="COUNTRY_BN">Brunei Darussalam</Country>
+  <Country UtsCode="16" CityMergeType="city" StateCode="" ISOCountryCode="BG" CurrentName="Bulgaria" LocationType="country" LocationId="COUNTRY_BG">Bulgaria</Country>
+  <Country UtsCode="202" CityMergeType="city" StateCode="" ISOCountryCode="BF" CurrentName="Burkina Faso" LocationType="country" LocationId="COUNTRY_BF">Burkina Faso</Country>
+  <Country UtsCode="203" CityMergeType="city" StateCode="" ISOCountryCode="BI" CurrentName="Burundi" LocationType="country" LocationId="COUNTRY_BI">Burundi</Country>
+  <Country UtsCode="61" CityMergeType="city" StateCode="" ISOCountryCode="KH" CurrentName="Cambodia" LocationType="country" LocationId="CouKhCambodi354">Cambodia</Country>
+  <Country UtsCode="62" CityMergeType="city" StateCode="" ISOCountryCode="CM" CurrentName="Cameroon" LocationType="country" LocationId="COUNTRY_CM">Cameroon</Country>
+  <Country UtsCode="63" CityMergeType="city" StateCode="" ISOCountryCode="CA" CurrentName="Canada" LocationType="country" LocationId="COUNTRY_CA">Canada</Country>
+  <Country UtsCode="204" CityMergeType="city" StateCode="" ISOCountryCode="CV" CurrentName="Cape Verde" LocationType="country" LocationId="COUNTRY_CV">Cape Verde</Country>
+  <Country UtsCode="60" CityMergeType="city" StateCode="" ISOCountryCode="KY" CurrentName="Cayman Islands" LocationType="country" LocationId="COUNTRY_KY">Cayman Islands</Country>
+  <Country UtsCode="206" CityMergeType="city" StateCode="" ISOCountryCode="TD" CurrentName="Chad" LocationType="country" LocationId="COUNTRY_TD">Chad</Country>
+  <Country UtsCode="160" CityMergeType="city" StateCode="" ISOCountryCode="CL" CurrentName="Chile" LocationType="country" LocationId="COUNTRY_CL">Chile</Country>
+  <Country UtsCode="68" CityMergeType="city" StateCode="" ISOCountryCode="CN" CurrentName="China" LocationType="country" LocationId="COUNTRY_CN">China</Country>
+  <Country UtsCode="235" CityMergeType="city" StateCode="" ISOCountryCode="CX" CurrentName="Christmas Island" LocationType="country" LocationId="COUNTRY_CX">Christmas Island</Country>
+  <Country UtsCode="246" CityMergeType="city" StateCode="" ISOCountryCode="CC" CurrentName="Cocos (K) I." LocationType="country" LocationId="COUNTRY_CC">Cocos (K) I.</Country>
+  <Country UtsCode="69" CityMergeType="city" StateCode="" ISOCountryCode="CO" CurrentName="Colombia" LocationType="country" LocationId="CouColumbia171">Colombia</Country>
+  <Country UtsCode="207" CityMergeType="city" StateCode="" ISOCountryCode="KM" CurrentName="Comoros" LocationType="country" LocationId="COUNTRY_KM">Comoros</Country>
+  <Country UtsCode="70" CityMergeType="city" StateCode="" ISOCountryCode="CG" CurrentName="Congo" LocationType="country" LocationId="COUNTRY_CG">Congo</Country>
+  <Country UtsCode="108" CityMergeType="city" StateCode="" ISOCountryCode="CK" CurrentName="Cook Islands" LocationType="country" LocationId="COUNTRY_CK">Cook Islands</Country>
+  <Country UtsCode="71" CityMergeType="city" StateCode="" ISOCountryCode="CR" CurrentName="Costa Rica" LocationType="country" LocationId="COUNTRY_CR">Costa Rica</Country>
+  <Country UtsCode="158" CityMergeType="city" StateCode="" ISOCountryCode="HR" CurrentName="Croatia" LocationType="country" LocationId="COUNTRY_HR">Croatia</Country>
+  <Country UtsCode="72" CityMergeType="city" StateCode="" ISOCountryCode="CU" CurrentName="Cuba" LocationType="country" LocationId="COUNTRY_CU">Cuba</Country>
+  <Country UtsCode="236" CityMergeType="city" StateCode="" ISOCountryCode="AN" CurrentName="Curacao" LocationType="country" LocationId="CITY_CUR_AN">Curacao</Country>
+  <Country UtsCode="66" CityMergeType="city" StateCode="" ISOCountryCode="CY" CurrentName="Cyprus" LocationType="country" LocationId="COUNTRY_CY">Cyprus</Country>
+  <Country UtsCode="159" CityMergeType="city" StateCode="" ISOCountryCode="CZ" CurrentName="Czech Republic" LocationType="country" LocationId="COUNTRY_CZ">Czech Republic</Country>
+  <Country UtsCode="42" CityMergeType="city" StateCode="" ISOCountryCode="DK" CurrentName="Denmark" LocationType="country" LocationId="COUNTRY_DK">Denmark</Country>
+  <Country UtsCode="208" CityMergeType="city" StateCode="" ISOCountryCode="DJ" CurrentName="Djibouti" LocationType="country" LocationId="COUNTRY_DJ">Djibouti</Country>
+  <Country UtsCode="221" CityMergeType="city" StateCode="" ISOCountryCode="DM" CurrentName="Dominica" LocationType="country" LocationId="COUNTRY_DM">Dominica</Country>
+  <Country UtsCode="43" CityMergeType="city" StateCode="" ISOCountryCode="DO" CurrentName="Dominican Republic" LocationType="country" LocationId="COUNTRY_DO">Dominican Republic</Country>
+  <Country UtsCode="200" CityMergeType="city" StateCode="" ISOCountryCode="TL" CurrentName="East Timor" LocationType="country" LocationId="COUNTRY_TL">East Timor</Country>
+  <Country UtsCode="164" CityMergeType="city" StateCode="" ISOCountryCode="EC" CurrentName="Ecuador" LocationType="country" LocationId="CouEcuador066">Ecuador</Country>
+  <Country UtsCode="44" CityMergeType="city" StateCode="" ISOCountryCode="EG" CurrentName="Egypt" LocationType="country" LocationId="COUNTRY_EG">Egypt</Country>
+  <Country UtsCode="188" CityMergeType="city" StateCode="" ISOCountryCode="GQ" CurrentName="Equatorial Guinea" LocationType="country" LocationId="COUNTRY_GQ">Equatorial Guinea</Country>
+  <Country UtsCode="184" CityMergeType="city" StateCode="" ISOCountryCode="ER" CurrentName="Eritrea" LocationType="country" LocationId="COUNTRY_ER">Eritrea</Country>
+  <Country UtsCode="165" CityMergeType="city" StateCode="" ISOCountryCode="EE" CurrentName="Estonia" LocationType="country" LocationId="COUNTRY_EE">Estonia</Country>
+  <Country UtsCode="166" CityMergeType="city" StateCode="" ISOCountryCode="ET" CurrentName="Ethiopia" LocationType="country" LocationId="COUNTRY_ET">Ethiopia</Country>
+  <Country UtsCode="228" CityMergeType="city" StateCode="" ISOCountryCode="GF" CurrentName="FRENCH GUIANA" LocationType="country" LocationId="COUNTRY_GF">FRENCH GUIANA</Country>
+  <Country UtsCode="224" CityMergeType="city" StateCode="" ISOCountryCode="FK" CurrentName="Falkland Islands" LocationType="country" LocationId="COUNTRY_FK">Falkland Islands</Country>
+  <Country UtsCode="247" CityMergeType="city" StateCode="" ISOCountryCode="FO" CurrentName="Faroe Islands" LocationType="country" LocationId="COUNTRY_FO">Faroe Islands</Country>
+  <Country UtsCode="153" CityMergeType="city" StateCode="" ISOCountryCode="FJ" CurrentName="Fiji" LocationType="country" LocationId="COUNTRY_FJ">Fiji</Country>
+  <Country UtsCode="155" CityMergeType="city" StateCode="" ISOCountryCode="FI" CurrentName="Finland" LocationType="country" LocationId="COUNTRY_FI">Finland</Country>
+  <Country UtsCode="156" CityMergeType="city" StateCode="" ISOCountryCode="FR" CurrentName="France" LocationType="country" LocationId="COUNTRY_FR">France</Country>
+  <Country UtsCode="157" CityMergeType="city" StateCode="" ISOCountryCode="PF" CurrentName="French Polynesia" LocationType="country" LocationId="COUNTRY_PF">French Polynesia</Country>
+  <Country UtsCode="28" CityMergeType="city" StateCode="" ISOCountryCode="GA" CurrentName="Gabon" LocationType="country" LocationId="COUNTRY_GA">Gabon</Country>
+  <Country UtsCode="30" CityMergeType="city" StateCode="" ISOCountryCode="GM" CurrentName="Gambia" LocationType="country" LocationId="COUNTRY_GM">Gambia</Country>
+  <Country UtsCode="39" CityMergeType="city" StateCode="" ISOCountryCode="GE" CurrentName="Georgia" LocationType="country" LocationId="COUNTRY_GE">Georgia</Country>
+  <Country UtsCode="32" CityMergeType="city" StateCode="" ISOCountryCode="DE" CurrentName="Germany" LocationType="country" LocationId="COUNTRY_DE">Germany</Country>
+  <Country UtsCode="209" CityMergeType="city" StateCode="" ISOCountryCode="GH" CurrentName="Ghana" LocationType="country" LocationId="COUNTRY_GH">Ghana</Country>
+  <Country UtsCode="33" CityMergeType="city" StateCode="" ISOCountryCode="GI" CurrentName="Gibraltar" LocationType="country" LocationId="COUNTRY_GI">Gibraltar</Country>
+  <Country UtsCode="37" CityMergeType="city" StateCode="" ISOCountryCode="GR" CurrentName="Greece" LocationType="country" LocationId="COUNTRY_GR">Greece</Country>
+  <Country UtsCode="38" CityMergeType="city" StateCode="" ISOCountryCode="GL" CurrentName="Greenland" LocationType="country" LocationId="COUNTRY_GL">Greenland</Country>
+  <Country UtsCode="36" CityMergeType="city" StateCode="" ISOCountryCode="GD" CurrentName="Grenada" LocationType="country" LocationId="COUNTRY_GD">Grenada</Country>
+  <Country UtsCode="31" CityMergeType="city" StateCode="" ISOCountryCode="GP" CurrentName="Guadeloupe" LocationType="country" LocationId="COUNTRY_GP">Guadeloupe</Country>
+  <Country UtsCode="40" CityMergeType="city" StateCode="" ISOCountryCode="GU" CurrentName="Guam" LocationType="country" LocationId="CouGuGuam973">Guam</Country>
+  <Country UtsCode="41" CityMergeType="city" StateCode="" ISOCountryCode="GT" CurrentName="Guatemala" LocationType="country" LocationId="COUNTRY_GT">Guatemala</Country>
+  <Country UtsCode="233" CityMergeType="city" StateCode="" ISOCountryCode="GN" CurrentName="Guinea" LocationType="country" LocationId="COUNTRY_GN">Guinea</Country>
+  <Country UtsCode="210" CityMergeType="city" StateCode="" ISOCountryCode="GW" CurrentName="Guinea-Bissau" LocationType="country" LocationId="COUNTRY_GW">Guinea-Bissau</Country>
+  <Country UtsCode="222" CityMergeType="city" StateCode="" ISOCountryCode="GY" CurrentName="Guyana" LocationType="country" LocationId="COUNTRY_GY">Guyana</Country>
+  <Country UtsCode="29" CityMergeType="city" StateCode="" ISOCountryCode="HT" CurrentName="Haiti" LocationType="country" LocationId="COUNTRY_HT">Haiti</Country>
+  <Country UtsCode="34" CityMergeType="city" StateCode="" ISOCountryCode="HN" CurrentName="Honduras" LocationType="country" LocationId="COUNTRY_HN">Honduras</Country>
+  <Country UtsCode="35" CityMergeType="city" StateCode="" ISOCountryCode="HK" CurrentName="Hong Kong" LocationType="country" LocationId="CouHkHongKon429">Hong Kong</Country>
+  <Country UtsCode="25" CityMergeType="city" StateCode="" ISOCountryCode="HU" CurrentName="Hungary" LocationType="country" LocationId="COUNTRY_HU">Hungary</Country>
+  <Country UtsCode="55" CityMergeType="city" StateCode="" ISOCountryCode="IS" CurrentName="Iceland" LocationType="country" LocationId="COUNTRY_IS">Iceland</Country>
+  <Country UtsCode="49" CityMergeType="city" StateCode="" ISOCountryCode="IN" CurrentName="India" LocationType="country" LocationId="COUNTRY_IN">India</Country>
+  <Country UtsCode="50" CityMergeType="city" StateCode="" ISOCountryCode="ID" CurrentName="Indonesia" LocationType="country" LocationId="COUNTRY_ID">Indonesia</Country>
+  <Country UtsCode="53" CityMergeType="city" StateCode="" ISOCountryCode="IR" CurrentName="Iran" LocationType="country" LocationId="COUNTRY_IR">Iran</Country>
+  <Country UtsCode="52" CityMergeType="city" StateCode="" ISOCountryCode="IQ" CurrentName="Iraq" LocationType="country" LocationId="COUNTRY_IQ">Iraq</Country>
+  <Country UtsCode="48" CityMergeType="city" StateCode="" ISOCountryCode="IL" CurrentName="Israel" LocationType="country" LocationId="COUNTRY_IL">Israel</Country>
+  <Country UtsCode="57" CityMergeType="city" StateCode="" ISOCountryCode="IT" CurrentName="Italy" LocationType="country" LocationId="COUNTRY_IT">Italy</Country>
+  <Country UtsCode="227" CityMergeType="city" StateCode="" ISOCountryCode="CI" CurrentName="Ivory Coast" LocationType="country" LocationId="COUNTRY_CI">Ivory Coast</Country>
+  <Country UtsCode="169" CityMergeType="city" StateCode="" ISOCountryCode="JM" CurrentName="Jamaica" LocationType="country" LocationId="COUNTRY_JM">Jamaica</Country>
+  <Country UtsCode="170" CityMergeType="city" StateCode="" ISOCountryCode="JP" CurrentName="Japan" LocationType="country" LocationId="COUNTRY_JP">Japan</Country>
+  <Country UtsCode="51" CityMergeType="city" StateCode="" ISOCountryCode="JO" CurrentName="Jordan" LocationType="country" LocationId="COUNTRY_JO">Jordan</Country>
+  <Country UtsCode="59" CityMergeType="city" StateCode="" ISOCountryCode="KZ" CurrentName="Kazakhstan" LocationType="country" LocationId="COUNTRY_KK">Kazakhstan</Country>
+  <Country UtsCode="65" CityMergeType="city" StateCode="" ISOCountryCode="KE" CurrentName="Kenya" LocationType="country" LocationId="COUNTRY_KE">Kenya</Country>
+  <Country UtsCode="189" CityMergeType="city" StateCode="" ISOCountryCode="XK" CurrentName="Kosovo" LocationType="country" LocationId="COUNTRY_XK">Kosovo</Country>
+  <Country UtsCode="73" CityMergeType="city" StateCode="" ISOCountryCode="KW" CurrentName="Kuwait" LocationType="country" LocationId="COUNTRY_KW">Kuwait</Country>
+  <Country UtsCode="67" CityMergeType="city" StateCode="" ISOCountryCode="KG" CurrentName="Kyrgyzstan" LocationType="country" LocationId="COUNTRY_KG">Kyrgyzstan</Country>
+  <Country UtsCode="74" CityMergeType="city" StateCode="" ISOCountryCode="LA" CurrentName="Laos" LocationType="country" LocationId="COUNTRY_LA">Laos</Country>
+  <Country UtsCode="75" CityMergeType="city" StateCode="" ISOCountryCode="LV" CurrentName="Latvia" LocationType="country" LocationId="COUNTRY_LV">Latvia</Country>
+  <Country UtsCode="76" CityMergeType="city" StateCode="" ISOCountryCode="LB" CurrentName="Lebanon" LocationType="country" LocationId="COUNTRY_LB">Lebanon</Country>
+  <Country UtsCode="211" CityMergeType="city" StateCode="" ISOCountryCode="LS" CurrentName="Lesotho" LocationType="country" LocationId="COUNTRY_LS">Lesotho</Country>
+  <Country UtsCode="212" CityMergeType="city" StateCode="" ISOCountryCode="LR" CurrentName="Liberia" LocationType="country" LocationId="COUNTRY_LR">Liberia</Country>
+  <Country UtsCode="77" CityMergeType="city" StateCode="" ISOCountryCode="LY" CurrentName="Libya" LocationType="country" LocationId="COUNTRY_LY">Libya</Country>
+  <Country UtsCode="79" CityMergeType="city" StateCode="" ISOCountryCode="LI" CurrentName="Liechtenstein" LocationType="country" LocationId="COUNTRY_LI">Liechtenstein</Country>
+  <Country UtsCode="78" CityMergeType="city" StateCode="" ISOCountryCode="LT" CurrentName="Lithuania" LocationType="country" LocationId="COUNTRY_LT">Lithuania</Country>
+  <Country UtsCode="80" CityMergeType="city" StateCode="" ISOCountryCode="LU" CurrentName="Luxembourg" LocationType="country" LocationId="COUNTRY_LU">Luxembourg</Country>
+  <Country UtsCode="83" CityMergeType="city" StateCode="" ISOCountryCode="MK" CurrentName="Macedonia" LocationType="country" LocationId="COUNTRY_MK">Macedonia</Country>
+  <Country UtsCode="213" CityMergeType="city" StateCode="" ISOCountryCode="MG" CurrentName="Madagascar" LocationType="country" LocationId="COUNTRY_MG">Madagascar</Country>
+  <Country UtsCode="190" CityMergeType="city" StateCode="" ISOCountryCode="MW" CurrentName="Malawi" LocationType="country" LocationId="COUNTRY_MW">Malawi</Country>
+  <Country UtsCode="84" CityMergeType="city" StateCode="" ISOCountryCode="MY" CurrentName="Malaysia" LocationType="country" LocationId="COUNTRY_MY">Malaysia</Country>
+  <Country UtsCode="85" CityMergeType="city" StateCode="" ISOCountryCode="ML" CurrentName="Mali" LocationType="country" LocationId="COUNTRY_ML">Mali</Country>
+  <Country UtsCode="87" CityMergeType="city" StateCode="" ISOCountryCode="MT" CurrentName="Malta" LocationType="country" LocationId="COUNTRY_MT">Malta</Country>
+  <Country UtsCode="193" CityMergeType="city" StateCode="" ISOCountryCode="MQ" CurrentName="Martinique" LocationType="country" LocationId="COUNTRY_MQ">Martinique</Country>
+  <Country UtsCode="214" CityMergeType="city" StateCode="" ISOCountryCode="MR" CurrentName="Mauritania" LocationType="country" LocationId="COUNTRY_MR">Mauritania</Country>
+  <Country UtsCode="81" CityMergeType="city" StateCode="" ISOCountryCode="MU" CurrentName="Mauritius" LocationType="country" LocationId="COUNTRY_MU">Mauritius</Country>
+  <Country UtsCode="88" CityMergeType="city" StateCode="" ISOCountryCode="MX" CurrentName="Mexico" LocationType="country" LocationId="COUNTRY_MX">Mexico</Country>
+  <Country UtsCode="89" CityMergeType="city" StateCode="" ISOCountryCode="FM" CurrentName="Micronesia" LocationType="country" LocationId="COUNTRY_FM">Micronesia</Country>
+  <Country UtsCode="91" CityMergeType="city" StateCode="" ISOCountryCode="MD" CurrentName="Moldova" LocationType="country" LocationId="COUNTRY_MD">Moldova</Country>
+  <Country UtsCode="171" CityMergeType="city" StateCode="" ISOCountryCode="MC" CurrentName="Monaco" LocationType="country" LocationId="COUNTRY_MC">Monaco</Country>
+  <Country UtsCode="92" CityMergeType="city" StateCode="" ISOCountryCode="MN" CurrentName="Mongolia" LocationType="country" LocationId="COUNTRY_MN">Mongolia</Country>
+  <Country UtsCode="176" CityMergeType="city" StateCode="" ISOCountryCode="ME" CurrentName="Montenegro" LocationType="country" LocationId="CouMeMontene623">Montenegro</Country>
+  <Country UtsCode="219" CityMergeType="city" StateCode="" ISOCountryCode="MS" CurrentName="Montserrat" LocationType="country" LocationId="COUNTRY_MS">Montserrat</Country>
+  <Country UtsCode="93" CityMergeType="city" StateCode="" ISOCountryCode="MA" CurrentName="Morocco" LocationType="country" LocationId="COU_Morocco">Morocco</Country>
+  <Country UtsCode="90" CityMergeType="city" StateCode="" ISOCountryCode="MZ" CurrentName="Mozambique" LocationType="country" LocationId="COUNTRY_MZ">Mozambique</Country>
+  <Country UtsCode="94" CityMergeType="city" StateCode="" ISOCountryCode="MM" CurrentName="Myanmar" LocationType="country" LocationId="COUNTRY_MM">Myanmar</Country>
+  <Country UtsCode="95" CityMergeType="city" StateCode="" ISOCountryCode="NA" CurrentName="Namibia" LocationType="country" LocationId="COUNTRY_NA">Namibia</Country>
+  <Country UtsCode="96" CityMergeType="city" StateCode="" ISOCountryCode="NP" CurrentName="Nepal" LocationType="country" LocationId="COUNTRY_NP">Nepal</Country>
+  <Country UtsCode="99" CityMergeType="city" StateCode="" ISOCountryCode="NL" CurrentName="Netherlands" LocationType="country" LocationId="COUNTRY_NL">Netherlands</Country>
+  <Country UtsCode="98" CityMergeType="city" StateCode="" ISOCountryCode="AN" CurrentName="Netherlands Antilles" LocationType="country" LocationId="COUNTRY_AN">Netherlands Antilles</Country>
+  <Country UtsCode="102" CityMergeType="city" StateCode="" ISOCountryCode="NC" CurrentName="New Caledonia" LocationType="country" LocationId="COUNTRY_NC">New Caledonia</Country>
+  <Country UtsCode="101" CityMergeType="city" StateCode="" ISOCountryCode="NZ" CurrentName="New Zealand" LocationType="country" LocationId="COUNTRY_NZ">New Zealand</Country>
+  <Country UtsCode="100" CityMergeType="city" StateCode="" ISOCountryCode="NI" CurrentName="Nicaragua" LocationType="country" LocationId="COUNTRY_NI">Nicaragua</Country>
+  <Country UtsCode="215" CityMergeType="city" StateCode="" ISOCountryCode="NE" CurrentName="Niger" LocationType="country" LocationId="COUNTRY_NE">Niger</Country>
+  <Country UtsCode="97" CityMergeType="city" StateCode="" ISOCountryCode="NG" CurrentName="Nigeria" LocationType="country" LocationId="COUNTRY_NG">Nigeria</Country>
+  <Country UtsCode="199" CityMergeType="city" StateCode="" ISOCountryCode="NU" CurrentName="Niue" LocationType="country" LocationId="COUNTRY_NU">Niue</Country>
+  <Country UtsCode="106" CityMergeType="city" StateCode="" ISOCountryCode="NF" CurrentName="Norfolk Island" LocationType="country" LocationId="COUNTRY_NF">Norfolk Island</Country>
+  <Country UtsCode="125" CityMergeType="city" StateCode="" ISOCountryCode="KP" CurrentName="North Korea" LocationType="country" LocationId="COUNTRY_KP">North Korea</Country>
+  <Country UtsCode="103" CityMergeType="city" StateCode="" ISOCountryCode="NO" CurrentName="Norway" LocationType="country" LocationId="COUNTRY_NO">Norway</Country>
+  <Country UtsCode="105" CityMergeType="city" StateCode="" ISOCountryCode="OM" CurrentName="Oman" LocationType="country" LocationId="COUNTRY_OM">Oman</Country>
+  <Country UtsCode="110" CityMergeType="city" StateCode="" ISOCountryCode="PK" CurrentName="Pakistan" LocationType="country" LocationId="COUNTRY_PK">Pakistan</Country>
+  <Country UtsCode="111" CityMergeType="city" StateCode="" ISOCountryCode="PW" CurrentName="Palau" LocationType="country" LocationId="CouPwPalau089">Palau</Country>
+  <Country UtsCode="112" CityMergeType="city" StateCode="" ISOCountryCode="PA" CurrentName="Panama" LocationType="country" LocationId="COUNTRY_PA">Panama</Country>
+  <Country UtsCode="192" CityMergeType="city" StateCode="" ISOCountryCode="PG" CurrentName="Papua New Guinea" LocationType="country" LocationId="COUNTRY_PG">Papua New Guinea</Country>
+  <Country UtsCode="113" CityMergeType="city" StateCode="" ISOCountryCode="PY" CurrentName="Paraguay" LocationType="country" LocationId="COUNTRY_PY">Paraguay</Country>
+  <Country UtsCode="114" CityMergeType="city" StateCode="" ISOCountryCode="PE" CurrentName="Peru" LocationType="country" LocationId="COUNTRY_PE">Peru</Country>
+  <Country UtsCode="154" CityMergeType="city" StateCode="" ISOCountryCode="PH" CurrentName="Philippines" LocationType="country" LocationId="COUNTRY_PH">Philippines</Country>
+  <Country UtsCode="115" CityMergeType="city" StateCode="" ISOCountryCode="PL" CurrentName="Poland" LocationType="country" LocationId="COUNTRY_PL">Poland</Country>
+  <Country UtsCode="116" CityMergeType="city" StateCode="" ISOCountryCode="PT" CurrentName="Portugal" LocationType="country" LocationId="COUNTRY_PT">Portugal</Country>
+  <Country UtsCode="117" CityMergeType="city" StateCode="" ISOCountryCode="PR" CurrentName="Puerto Rico" LocationType="country" LocationId="COUNTRY_PR">Puerto Rico</Country>
+  <Country UtsCode="64" CityMergeType="city" StateCode="" ISOCountryCode="QA" CurrentName="Qatar" LocationType="country" LocationId="COUNTRY_QA">Qatar</Country>
+  <Country UtsCode="177" CityMergeType="city" StateCode="" ISOCountryCode="RE" CurrentName="Reunion" LocationType="country" LocationId="COUNTRY_RE">Reunion</Country>
+  <Country UtsCode="119" CityMergeType="city" StateCode="" ISOCountryCode="RO" CurrentName="Romania" LocationType="country" LocationId="COUNTRY_RO">Romania</Country>
+  <Country UtsCode="118" CityMergeType="city" StateCode="" ISOCountryCode="RU" CurrentName="Russia" LocationType="country" LocationId="COUNTRY_RU">Russia</Country>
+  <Country UtsCode="216" CityMergeType="city" StateCode="" ISOCountryCode="RW" CurrentName="Rwanda" LocationType="country" LocationId="COUNTRY_RW">Rwanda</Country>
+  <Country UtsCode="130" CityMergeType="city" StateCode="" ISOCountryCode="BL" CurrentName="Saint Barthelemy" LocationType="country" LocationId="COUNTRY_BL">Saint Barthelemy</Country>
+  <Country UtsCode="238" CityMergeType="city" StateCode="" ISOCountryCode="MF" CurrentName="Saint-Martin" LocationType="country" LocationId="COUNTRY_MF">Saint-Martin</Country>
+  <Country UtsCode="120" CityMergeType="city" StateCode="" ISOCountryCode="WS" CurrentName="Samoa" LocationType="country" LocationId="COUNTRY_WS">Samoa</Country>
+  <Country UtsCode="178" CityMergeType="city" StateCode="" ISOCountryCode="SM" CurrentName="San Marino" LocationType="country" LocationId="COUNTRY_SM">San Marino</Country>
+  <Country UtsCode="123" CityMergeType="city" StateCode="" ISOCountryCode="SA" CurrentName="Saudi Arabia" LocationType="country" LocationId="COUNTRY_SA">Saudi Arabia</Country>
+  <Country UtsCode="129" CityMergeType="city" StateCode="" ISOCountryCode="SN" CurrentName="Senegal" LocationType="country" LocationId="COUNTRY_SN">Senegal</Country>
+  <Country UtsCode="133" CityMergeType="city" StateCode="" ISOCountryCode="RS" CurrentName="Serbia" LocationType="country" LocationId="CouRsSerbia186">Serbia</Country>
+  <Country UtsCode="128" CityMergeType="city" StateCode="" ISOCountryCode="SC" CurrentName="Seychelles" LocationType="country" LocationId="COUNTRY_SC">Seychelles</Country>
+  <Country UtsCode="217" CityMergeType="city" StateCode="" ISOCountryCode="SL" CurrentName="Sierra Leone" LocationType="country" LocationId="COUNTRY_SL">Sierra Leone</Country>
+  <Country UtsCode="134" CityMergeType="city" StateCode="" ISOCountryCode="SG" CurrentName="Singapore" LocationType="country" LocationId="COUNTRY_SG">Singapore</Country>
+  <Country UtsCode="136" CityMergeType="city" StateCode="" ISOCountryCode="SK" CurrentName="Slovakia" LocationType="country" LocationId="COUNTRY_SK">Slovakia</Country>
+  <Country UtsCode="137" CityMergeType="city" StateCode="" ISOCountryCode="SI" CurrentName="Slovenia" LocationType="country" LocationId="COUNTRY_SI">Slovenia</Country>
+  <Country UtsCode="196" CityMergeType="city" StateCode="" ISOCountryCode="SB" CurrentName="Solomon Islands" LocationType="country" LocationId="COUNTRY_SB">Solomon Islands</Country>
+  <Country UtsCode="167" CityMergeType="city" StateCode="" ISOCountryCode="ZA" CurrentName="South Africa" LocationType="country" LocationId="COUNTRY_ZA">South Africa</Country>
+  <Country UtsCode="168" CityMergeType="city" StateCode="" ISOCountryCode="KR" CurrentName="South Korea" LocationType="country" LocationId="COU_SouthKorea">South Korea</Country>
+  <Country UtsCode="56" CityMergeType="city" StateCode="" ISOCountryCode="ES" CurrentName="Spain" LocationType="country" LocationId="COUNTRY_ES">Spain</Country>
+  <Country UtsCode="163" CityMergeType="city" StateCode="" ISOCountryCode="LK" CurrentName="Sri Lanka" LocationType="country" LocationId="CouLkSriLank427">Sri Lanka</Country>
+  <Country UtsCode="132" CityMergeType="city" StateCode="" ISOCountryCode="KN" CurrentName="St Kitts &amp; Nevis" LocationType="country" LocationId="COUNTRY_KN">St Kitts &amp; Nevis</Country>
+  <Country UtsCode="131" CityMergeType="city" StateCode="" ISOCountryCode="VC" CurrentName="St Vincent &amp; Grenadines" LocationType="country" LocationId="COUNTRY_VC">St Vincent &amp; Grenadines</Country>
+  <Country UtsCode="250" CityMergeType="city" StateCode="" ISOCountryCode="PM" CurrentName="St. Pierre and Miquelon" LocationType="country" LocationId="COUNTRY_PM">St. Pierre and Miquelon</Country>
+  <Country UtsCode="218" CityMergeType="city" StateCode="" ISOCountryCode="SD" CurrentName="Sudan" LocationType="country" LocationId="COUNTRY_SD">Sudan</Country>
+  <Country UtsCode="223" CityMergeType="city" StateCode="" ISOCountryCode="SR" CurrentName="Suriname" LocationType="country" LocationId="COUNTRY_SR">Suriname</Country>
+  <Country UtsCode="124" CityMergeType="city" StateCode="" ISOCountryCode="SZ" CurrentName="Swaziland" LocationType="country" LocationId="COUNTRY_SZ">Swaziland</Country>
+  <Country UtsCode="162" CityMergeType="city" StateCode="" ISOCountryCode="SE" CurrentName="Sweden" LocationType="country" LocationId="COUNTRY_SE">Sweden</Country>
+  <Country UtsCode="161" CityMergeType="city" StateCode="" ISOCountryCode="CH" CurrentName="Switzerland" LocationType="country" LocationId="COUNTRY_CH">Switzerland</Country>
+  <Country UtsCode="135" CityMergeType="city" StateCode="" ISOCountryCode="SY" CurrentName="Syria" LocationType="country" LocationId="COUNTRY_SY">Syria</Country>
+  <Country UtsCode="140" CityMergeType="city" StateCode="" ISOCountryCode="TW" CurrentName="Taiwan" LocationType="country" LocationId="COUNTRY_TW">Taiwan</Country>
+  <Country UtsCode="142" CityMergeType="city" StateCode="" ISOCountryCode="TZ" CurrentName="Tanzania" LocationType="country" LocationId="COUNTRY_TZ">Tanzania</Country>
+  <Country UtsCode="141" CityMergeType="city" StateCode="" ISOCountryCode="TH" CurrentName="Thailand" LocationType="country" LocationId="COUNTRY_TH">Thailand</Country>
+  <Country UtsCode="143" CityMergeType="city" StateCode="" ISOCountryCode="TG" CurrentName="Togo" LocationType="country" LocationId="COUNTRY_TG">Togo</Country>
+  <Country UtsCode="198" CityMergeType="city" StateCode="" ISOCountryCode="TK" CurrentName="Tokelau" LocationType="country" LocationId="COUNTRY_TK">Tokelau</Country>
+  <Country UtsCode="144" CityMergeType="city" StateCode="" ISOCountryCode="TO" CurrentName="Tonga" LocationType="country" LocationId="COUNTRY_TO">Tonga</Country>
+  <Country UtsCode="146" CityMergeType="city" StateCode="" ISOCountryCode="TN" CurrentName="Tunisia" LocationType="country" LocationId="COUNTRY_TN">Tunisia</Country>
+  <Country UtsCode="148" CityMergeType="city" StateCode="" ISOCountryCode="TR" CurrentName="Turkey" LocationType="country" LocationId="COUNTRY_TR">Turkey</Country>
+  <Country UtsCode="147" CityMergeType="city" StateCode="" ISOCountryCode="TM" CurrentName="Turkmenistan" LocationType="country" LocationId="COUNTRY_TM">Turkmenistan</Country>
+  <Country UtsCode="197" CityMergeType="city" StateCode="" ISOCountryCode="TV" CurrentName="Tuvalu" LocationType="country" LocationId="COUNTRY_TV">Tuvalu</Country>
+  <Country UtsCode="149" CityMergeType="city" StateCode="" ISOCountryCode="UG" CurrentName="Uganda" LocationType="country" LocationId="COUNTRY_UG">Uganda</Country>
+  <Country UtsCode="151" CityMergeType="city" StateCode="" ISOCountryCode="UA" CurrentName="Ukraine" LocationType="country" LocationId="COUNTRY_UA">Ukraine</Country>
+  <Country UtsCode="104" CityMergeType="city" StateCode="" ISOCountryCode="AE" CurrentName="United Arab Emirates" LocationType="country" LocationId="COUNTRY_AE">United Arab Emirates</Country>
+  <Country UtsCode="152" CityMergeType="city" StateCode="" ISOCountryCode="UY" CurrentName="Uruguay" LocationType="country" LocationId="CouUyUruguay351">Uruguay</Country>
+  <Country UtsCode="150" CityMergeType="city" StateCode="" ISOCountryCode="UZ" CurrentName="Uzbekistan" LocationType="country" LocationId="COUNTRY_UZ">Uzbekistan</Country>
+  <Country UtsCode="23" CityMergeType="city" StateCode="" ISOCountryCode="VU" CurrentName="Vanuatu" LocationType="country" LocationId="COUNTRY_VU">Vanuatu</Country>
+  <Country UtsCode="26" CityMergeType="city" StateCode="" ISOCountryCode="VE" CurrentName="Venezuela" LocationType="country" LocationId="CouVenezuela302">Venezuela</Country>
+  <Country UtsCode="27" CityMergeType="city" StateCode="" ISOCountryCode="VN" CurrentName="Vietnam" LocationType="country" LocationId="COUNTRY_VN">Vietnam</Country>
+  <Country UtsCode="107" CityMergeType="city" StateCode="" ISOCountryCode="VI" CurrentName="Virgin Islands (USA)" LocationType="country" LocationId="COUNTRY_VI">Virgin Islands (USA)</Country>
+  <Country UtsCode="225" CityMergeType="city" StateCode="" ISOCountryCode="EH" CurrentName="Western Sahara" LocationType="country" LocationId="COUNTRY_EH">Western Sahara</Country>
+  <Country UtsCode="58" CityMergeType="city" StateCode="" ISOCountryCode="YE" CurrentName="Yemen Republic" LocationType="country" LocationId="COUNTRY_YE">Yemen Republic</Country>
+  <Country UtsCode="46" CityMergeType="city" StateCode="" ISOCountryCode="ZM" CurrentName="Zambia" LocationType="country" LocationId="COUNTRY_ZM">Zambia</Country>
+  <Country UtsCode="47" CityMergeType="city" StateCode="" ISOCountryCode="ZW" CurrentName="Zimbabwe" LocationType="country" LocationId="COUNTRY_ZW">Zimbabwe</Country>
+  <Country UtsCode="232" StateCode="" CityMergeType="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">ANTIGUA AND BARBUDA</Country>
+  <Country UtsCode="245" StateCode="" CityMergeType="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Abkhazia, Georgia</Country>
+  <Country UtsCode="226" StateCode="" CityMergeType="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">BONAIRE</Country>
+  <Country UtsCode="251" StateCode="" CityMergeType="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Bailiwick of Guernsey</Country>
+  <Country UtsCode="252" StateCode="" CityMergeType="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Bailiwick of Jersey</Country>
+  <Country UtsCode="18" StateCode="" CityMergeType="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Bosnia Herzegovina</Country>
+  <Country UtsCode="205" StateCode="" CityMergeType="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Central African Republic</Country>
+  <Country UtsCode="45" StateCode="" CityMergeType="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Democratic Republic of Kongo</Country>
+  <Country UtsCode="180" StateCode="" CityMergeType="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">El Salvador</Country>
+  <Country UtsCode="54" StateCode="" CityMergeType="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Ireland(Republic of)</Country>
+  <Country UtsCode="82" StateCode="" CityMergeType="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Macau</Country>
+  <Country UtsCode="86" StateCode="" CityMergeType="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Maldives</Country>
+  <Country UtsCode="127" StateCode="" CityMergeType="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">North Cyprus</Country>
+  <Country UtsCode="126" StateCode="" CityMergeType="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Northern Mariana Island</Country>
+  <Country UtsCode="122" StateCode="" CityMergeType="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Saint Lucia</Country>
+  <Country UtsCode="121" StateCode="" CityMergeType="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">San Martin (F)</Country>
+  <Country UtsCode="249" StateCode="" CityMergeType="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Sao Tom and Prncipe</Country>
+  <Country UtsCode="242" StateCode="" CityMergeType="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Svalbard</Country>
+  <Country UtsCode="139" StateCode="" CityMergeType="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Tadjikistan</Country>
+  <Country UtsCode="145" StateCode="" CityMergeType="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Trinidad &amp; Tobago</Country>
+  <Country UtsCode="109" StateCode="" CityMergeType="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Turks &amp; Caicos Island</Country>
+  <Country UtsCode="187" StateCode="" CityMergeType="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Turks And Caicos Islands</Country>
+  <Country UtsCode="24" StateCode="" CityMergeType="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">United Kingdom</Country>
+  <Country UtsCode="138" StateCode="" CityMergeType="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">United States</Country>
+</Countries>
